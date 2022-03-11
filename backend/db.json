@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "Teste nome",
+      "price": 10,
+      "description": "Teste descricao",
+      "id": 10
+    },
+    {
+      "name": "Teste nome",
+      "price": 10,
+      "description": "Teste descricao",
+      "id": 11
+    },
+    {
+      "name": "Teste nome",
+      "price": 10,
+      "description": "Teste descricao",
+      "id": 12
+    },
+    {
+      "name": "Teste nome",
+      "price": 10,
+      "description": "Teste descricao",
+      "id": 13
+    },
+    {
+      "name": "Teste nome",
+      "price": 10,
+      "description": "Teste descricao",
+      "id": 14
+    },
+    {
+      "name": "Teste nome",
+      "price": 10,
+      "description": "Teste descricao",
+      "id": 15
+    },
+    {
+      "name": "Teste nome",
+      "price": 10,
+      "description": "Teste descricao",
+      "id": 16
+    }
+  ]
+}
